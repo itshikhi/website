@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>IT Shikhi Jr. Engineer</title>
+    <title>IT Shikhi Junior Engineer</title>
     <link href="https://itshikhi.com/feed.xml" rel="self" />
     <link href="https://itshikhi.com" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2025-09-28T00:48:37+06:00</updated>
     <author>
         <name>IT Shikhi Dev Team</name>
     </author>
     <id>https://itshikhi.com</id>
 
+    <entry>
+        <title>বাচ্চাদের সৃজনশীল মনোভাবের জন্য প্রোগ্রামিং বেস্ট অপশন</title>
+        <author>
+            <name>IT Shikhi Dev Team</name>
+        </author>
+        <link href="https://itshikhi.com/baaccaader-srjnshiil-mnobhaaber-jny-prograamin-bestt-apshn.html"/>
+        <id>https://itshikhi.com/baaccaader-srjnshiil-mnobhaaber-jny-prograamin-bestt-apshn.html</id>
+
+        <updated>2025-09-28T00:48:37+06:00</updated>
+            <summary>
+                <![CDATA[
+                    Caption
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure ><figure class="post__image post__image--full"><img loading="lazy"  src="https://itshikhi.com/media/posts/1/new-design.jpg" alt="জুনিয়র ইঞ্জিনিয়ার" width="2048" height="2048" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://itshikhi.com/media/posts/1/responsive/new-design-xs.jpg 640w ,https://itshikhi.com/media/posts/1/responsive/new-design-sm.jpg 768w ,https://itshikhi.com/media/posts/1/responsive/new-design-md.jpg 1024w ,https://itshikhi.com/media/posts/1/responsive/new-design-lg.jpg 1366w ,https://itshikhi.com/media/posts/1/responsive/new-design-xl.jpg 1600w ,https://itshikhi.com/media/posts/1/responsive/new-design-2xl.jpg 1920w"></figure>
+<figcaption >Caption</figcaption>
+</figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
